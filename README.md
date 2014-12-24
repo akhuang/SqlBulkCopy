@@ -5,6 +5,6 @@ SqlBulkCopy
 
 #Questions
 
-- 数据库表中列与DataTable中的列必须一致
+- 数据库表中列与DataTable中的列必须一致   
   暂时发现如果有自增主键值为报错
 - ss
